@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Defina o domínio oficial na publicação e inclua aqui: Sitemap: https://dominio/sitemap.xml

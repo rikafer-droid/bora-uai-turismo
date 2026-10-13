@@ -1,0 +1,10 @@
+# Arquivos locais do ambiente de trabalho
+.agents/
+.aws/
+.codex/
+skills/
+meu_git.txt
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
